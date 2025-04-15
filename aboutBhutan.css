@@ -1,0 +1,43 @@
+.about-container {
+    max-width: 888px;
+    margin: 40px auto;
+    padding: 20px;
+    background: linear-gradient(to right,);
+    border-radius: 12px;
+    box-shadow: 0 4px 12 px #000000;
+    font-family: 'Segoe UI', sans-serif;
+    color: #333;
+}
+.title {
+    text-align: center;
+    font-size: 2.5rem;
+    color:rgb(0, 0, 0);
+    margin-bottom: 28px;
+
+}
+.section-title {
+    font-size: 1.5;
+    color: lightslategrey;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+.description {
+    list-style-type: disc;
+    line-height: 1.5px;
+    margin-bottom: 16px;
+}
+.lyst {
+    list-style-type: disc;
+    padding-left: 20px;
+    margin-bottom: 15px;
+}
+.image {
+    display: block;
+    width: 100%;
+    max-width: 600px;
+    margin: 30px auto 0;
+    border-radius: 10px;
+    box-shadow: rgb(0,0,0);
+    
+    
+}
